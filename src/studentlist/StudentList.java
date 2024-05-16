@@ -17,7 +17,7 @@ public class StudentList {
         // TODO code application logic here
         System.out.println("Hello world");
         
-        System.out.println("Hello world 2");
+        
     }
     
 }
